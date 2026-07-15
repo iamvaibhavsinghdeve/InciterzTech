@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/career"
+  to = "/careers/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/career/"
+  to = "/careers/"
+  status = 301
+  force = true
