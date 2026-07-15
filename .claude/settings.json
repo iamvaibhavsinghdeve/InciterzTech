@@ -4,7 +4,9 @@
       "Bash(cd \"/c/Users/ADMIN/Desktop/Inciterz new SCT/inciterz-website-nextjs \\(4\\)/inciterz-website\" && node \"/c/Users/ADMIN/AppData/Local/Temp/claude/c--Users-ADMIN-Desktop-Inciterz-new-SCT-inciterz-website-nextjs--4--inciterz-website/53998c63-93c6-4921-a55f-be3be885a086/scratchpad/extract.js\" \"components/SiteContent.jsx\" && cat \"/c/Users/ADMIN/AppData/Local/Temp/claude/c--Users-ADMIN-Desktop-Inciterz-new-SCT-inciterz-website-nextjs--4--inciterz-website/53998c63-93c6-4921-a55f-be3be885a086/scratchpad/nav_section.txt\")",
       "Read(//c/Users/ADMIN/AppData/Local/Temp/claude/c--Users-ADMIN-Desktop-Inciterz-new-SCT-inciterz-website-nextjs--4--inciterz-website/53998c63-93c6-4921-a55f-be3be885a086/scratchpad/**)",
       "Bash(node -e ' *)",
-      "Bash(npx next *)"
+      "Bash(npx next *)",
+      "Bash(npm ls *)",
+      "Bash(npm view *)"
     ]
   }
 }
